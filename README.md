@@ -4,4 +4,4 @@ technologies:
 HTLM
 CSS 
 JS
-Demo :  https://geritychina.github.io/pixelBeaty/
+<br> Demo :  https://geritychina.github.io/pixelBeaty/
